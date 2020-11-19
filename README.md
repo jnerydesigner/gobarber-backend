@@ -1,4 +1,4 @@
-![Banner GoBarber Backend](https://github.com/jnerydesigner/gobarber-backend/blob/master/banner-github.png)
+![Banner GoBarber Backend](https://github.com/jnerydesigner/gobarber-backend/blob/main/banner-github.png)
 
 # Backend do Aplicativo GoBarber
 
